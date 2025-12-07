@@ -21,7 +21,7 @@
 
   { "timestamp": 1741946410000, "speed": 75.3, "battery": "72.6%", "motorTemp": 69.1, "gps": { "lat": -33.9180, "lng": 151.2320 } },
 
-  { "timestamp": 1741946411000, "speed": 74.9, "battery": 72.4, "motorTemp": 69.7, "gps": { "lat": -33.9181, "lng": 151.2321 } },
+  { "timestamp": 1741946411000, "speed": 74.9, "battery": 72.4, "motorTemp": 99.7, "gps": { "lat": -33.9181, "lng": 151.2321 } },
 
   { "timestamp": 1741946412000, "speed": null, "battery": 72.3, "motorTemp": 70.2, "gps": { "lat": -33.9182, "lng": 151.2322 } },
 
@@ -45,5 +45,5 @@
 
   { "timestamp": 1741946422000, "speed": 68.3, "battery": 70.9, "motorTemp": 76.4, "gps": { "lat": -33.9192, "lng": 151.2332 } },
 
-  { "timestamp": 1741946423000, "speed": 67.8, "battery": 70.7, "motorTemp": 76.9, "gps": { "lat": -33.9193, "lng": 151.2333 } }
+  { "timestamp": 1741946423000, "speed": 60.8, "battery": 70.7, "motorTemp": 106.9, "gps": { "lat": -33.9193, "lng": 151.2333 } }
 ]

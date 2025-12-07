@@ -14,6 +14,8 @@ import { cleanData } from "../utils/cleanData";
   chart component to visualise speed over time.
 */
 
+// edge case of if the first and last data is < MINSPEED still exist 
+
 const TelemetryChart = () => {
   const [data, setData] = useState([]);
 
